@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="app">
-    <h1 class="appHeader">18xx calculator</h1>
+    <h1 class="appHeader">18xx calculator - develop</h1>
     <div class="calculator">
       <p class="infoText">
         A simple tool for scoring results in 18xx games. It can calculate end
